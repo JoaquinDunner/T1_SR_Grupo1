@@ -2,3 +2,4 @@
 * text=auto
 *.zip filter=lfs diff=lfs merge=lfs -text
 a4_user_item_cs.npy filter=lfs diff=lfs merge=lfs -text
+a4_user_item_cs_txt.npy filter=lfs diff=lfs merge=lfs -text
